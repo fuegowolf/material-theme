@@ -1,0 +1,68 @@
+{
+  "name": "Material-Theme-Kodewolf",
+  "semanticClass": "material.theme.kodewolf",
+  "uuid": "133d1250-19c6-4565-bc93-b37fd36f7fc9",
+  "ui": {
+    "id": "material-theme",
+    "variant": {
+      "id": "kodewolf",
+      "name": "Kodewolf"
+    },
+    "background": {
+      "primary": {
+        "hex": "#282a36",
+        "rgb": "40, 42, 54"
+      },
+      "scrollbar": {
+        "hex": "#ffffff",
+        "rgb": "255, 255, 255"
+      }
+    },
+    "foreground": {
+      "primary": {
+        "hex": "#585981",
+        "rgb": "88, 89, 129"
+      },
+      "selected": {
+        "hex": "#87a5d2",
+        "rgb": "135, 165, 210"
+      }
+    }
+  },
+  "scheme": {
+    "background": "#282a36", 
+    "foreground": "#f9f9f9",
+    "caret": "#ffb154",
+    "guides": "#4E557980",
+    "activeGuide": "#527FC1",
+    "stackGuides": "#4E5579",
+    "gutter": "#3A3F58",
+    "invisibles": "#4E5579",
+    "highlight": "#00000030",
+    "findHighlight": "#ffcb8d",
+    "selection": "#717CB440",
+    "shadow": "#00000010",
+    "base": {
+      "value": "#96c2d7",
+      "identifier": "#87a5d2",
+      "global": "#7b7bbc",
+      "emphasis": "#ff8faa",
+      "action": "#ffac8d",
+      "special": "#ffcb8d",
+      "statement": "#ff8e91",
+      "type": "#97d28b",
+      "trivial": "#9aacbf",
+      "value_accent": "#74aac4",
+      "identifier_accent": "#527fc1",
+      "global_accent": "#585981",
+      "emphasis_accent": "#d87181",
+      "action_accent": "#ee816c",
+      "special_accent": "#ffb154",
+      "statement_accent": "#ef6165",
+      "type_accent": "#6a7a8b",
+      "trivial_accent": "#B2CCD6",
+      "grey1": "#cdced9",
+      "grey2": "#a7a8b0"
+    }
+  }
+}

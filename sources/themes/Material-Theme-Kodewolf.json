@@ -1,0 +1,24 @@
+// >
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// The most epic theme for Sublime Text 3
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+[
+  //
+  //=include "kodewolf/app.json"
+  //=include "kodewolf/dialog.json"
+  //=include "kodewolf/code_folding.json"
+  //=include "kodewolf/autocomplete.json"
+  //=include "kodewolf/tooltip.json"
+  //=include "kodewolf/overlay_panels.json"
+  //=include "kodewolf/tabs.json"
+  //=include "kodewolf/sidebar.json"
+  //=include "kodewolf/scrollbars.json"
+  //=include "kodewolf/minimap.json"
+  //=include "kodewolf/statusbar.json"
+  //=include "kodewolf/widgets.json"
+  //=include "kodewolf/buttons.json"
+  //=include "commons/accent.json"
+  //=include "commons/options.json"
+  //
+]
