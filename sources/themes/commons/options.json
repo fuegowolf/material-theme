@@ -1,4 +1,3 @@
-
 // @ THEME OPTIONS
 // Options override
 // =========================================================================
@@ -9,7 +8,7 @@
     "class": "tabset_control",
     "settings": ["material_theme_small_tab"],
     "tab_height": 36,
-    "content_margin": [12, 0, 8, 0]
+    "content_margin": [12, 0, 8, 8]
   },
 
   {
@@ -28,6 +27,11 @@
     "class": "tab_control",
     "settings": ["material_theme_small_tab"],
     "content_margin": [12, 8, 6, 4],
+  },
+
+  {
+    "class": "tabset_control",
+    "content_margin": [0, 0, 0, 10]
   },
 
   // Tabs separator
